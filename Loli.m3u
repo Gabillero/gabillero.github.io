@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-logo="https://i.imgur.com/HSKeS3G.png"  group-title="Musica",A Son de Salsa
+https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-logo="https://i.imgur.com/HSKeS3G.png"  group-title="Espanol",A Son de Salsa
+https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bajo_techo_tv_do.png" group-title="TV Dominicana",Bajo Techo TV
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bajo_techo_tv_do.png" group-title="Espanol",Bajo Techo TV
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="English",BBC America (720p)
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCDramaSpain.es" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png" group-title="Espanol",BBC Drama (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://bellavision8.com/wp-content/uploads/2020/05/BVlogo.png" group-title="TV Dominicana",Bellavisión
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bellavision.do" tvg-logo="https://bellavision8.com/wp-content/uploads/2020/05/BVlogo.png" group-title="Espanol",Bellavisión
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BonaoTV.do" tvg-logo="https://www.bonaotv.com/images/bonao_logo_pb_500sm.png" group-title="TV Dominicana",Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BonaoTV.do" tvg-logo="https://www.bonaotv.com/images/bonao_logo_pb_500sm.png" group-title="Espanol",Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="TV Dominicana",Canal 4 RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal4RD.do" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="Espanol",Canal 4 RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalCatorce.do" tvg-logo="https://i.imgur.com/N4kJyqm.png" group-title="Espanol",Canal Catorce
+https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalSonTV.co" tvg-logo="https://i.imgur.com/XVYpQdw.png" group-title="Musica",Canal Son TV
+https://server12.videostreaming.net:3628/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="CanalSonTV.co" tvg-logo="https://i.imgur.com/XVYpQdw.png" group-title="Espanol",Canal Son TV
+https://server12.videostreaming.net:3628/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="CanalSonTV.co" tvg-logo="https://en.wikipedia.org/wiki/Mr._Bean:_The_Animated_Series#/media/File:Mr-bean-animated-episode-opening-card.PNG" group-title="Carton",MR Bean
+https://od.lk/s/NDBfNDgyOTQ2NTBf/Bean%27s%20Bounty%20_%20Full%20Episode%20_%20Mr.%20Bean%20Official.mp4
+
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/D7HC79b.png" group-title="Espanol",Canela TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
+
+#EXTINF:-1 tvg-id="CanelaTV.us" tvg-logo="https://i.imgur.com/D7HC79b.png" group-title="TV Dominicana",Canela TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65
+
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkWest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://cascaratv.com/wp-content/uploads/2020/06/LOGO-CASCARA1.jpg" group-title="TV Dominicana",Cáscara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CascaraTV.do" tvg-logo="https://cascaratv.com/wp-content/uploads/2020/06/LOGO-CASCARA1.jpg" group-title="Espanol",Cáscara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/512px-CGTN_Espanol.png" group-title="Espanol",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-id="CieloTV.do" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cielo-tv-do.png" group-title="TV Dominicana",Cielo TV
+https://62ac3ff10e9f0.streamlock.net:1936/cielotv/cielotv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="Peliculas",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/512px-Cine.Ar_logo.svg.png" group-title="Peliculas",CINE.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV Dominicana",Cinevision Canal 19
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+
+#EXTINF:-1 tvg-id="ComunionTV.do" tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="TV Dominicana",Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Music",Conecta TV (720p)
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ccanal13.cl" tvg-logo="https://karibemix.net/wp-content/uploads/2020/08/cropped-KMix-1-8.png" group-title="Espanol",Canal 13 Chile
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/canal13/live
+
+#EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png" group-title="TV Dominicana",ConstanzaTV
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="dw.cl" tvg-logo="https://karibemix.net/wp-content/uploads/2020/08/cropped-KMix-1-8.png" group-title="Espanol",DW Espanol
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwespanol/live
+
+#EXTINF:-1 tvg-id="en.cl" tvg-logo="https://karibemix.net/wp-content/uploads/2020/08/cropped-KMix-1-8.png" group-title="Espanol",Euronews
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euronewses/live
+
+#EXTINF:-1 tvg-id="dsl.cl" tvg-logo="https://karibemix.net/wp-content/uploads/2020/08/cropped-KMix-1-8.png" group-title="Musica",Dr Sax Love
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DrSaxLove/live
+
+#EXTINF:-1 tvg-id="bb.cl" tvg-logo="https://karibemix.net/wp-content/uploads/2020/08/cropped-KMix-1-8.png" group-title="Kids",Busy Beavers
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/busybeavers/live
+
+
+
