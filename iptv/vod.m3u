@@ -1,7 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=tt0024660" tvg-name="tt0024660" tvg-type="movies" group-title="Animacion" ,Los Tres Cerditos
+#EXTINF:-1 tvg-id="tt0024660" tvg-logo="https://espinalcreative.com/iptv/folder.jpg"  group-title="Animación",Los Tres Cerditos
 https://www.mediafire.com/file/mfna7mkx6otdl1l/tt0024660.avi
 
-#EXTINF:-1 tvg-id=tt11613746" tvg-name="tt11613746" tvg-type="movies" group-title="Comedia" ,Garcia y Garcia
+#EXTINF:-1 tvg-id="tt11613746" tvg-logo="https://espinalcreative.com/iptv/GG.jpg"  group-title="Comedia",García y García
 https://www.mediafire.com/file/6k6m3kmt6n90x34/tt11613746.mkv
+
+#EXTINF:-1 tvg-id="tt11790674" tvg-logo="https://thumbs2.imgbox.com/96/65/f25E4PYI_t.jpg"  group-title="Drama",Oslo
+https://www.mediafire.com/file/11p5q230cj9i6mq/tt11790674.mkv
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LOGO"  group-title="CATEGORIA",TITULO
+https://www.mediafire.com/file/60563r35ohzneo5/tt15575356.mp4
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LOGO"  group-title="CATEGORIA",TITULO
+https://www.mediafire.com/file/co4r9djy2gyo7ps/tt1621039.mp4
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LOGO"  group-title="CATEGORIA",TITULO
+https://www.mediafire.com/file/zstxsd0jxqp6gkd/tt3691740.mp4
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LOGO"  group-title="CATEGORIA",TITULO
+https://www.mediafire.com/file/ii4izamzzzu7je6/tt6338498.mp4
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LOGO"  group-title="CATEGORIA",TITULO
+https://www.mediafire.com/file/tyvkkv5tb394ib5/tt9059704.mkv
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="LOGO"  group-title="CATEGORIA",TITULO
+https://www.mediafire.com/file/3fn4bpjgagh2ica/tt9421570.mp4
+
+
+
+
+
