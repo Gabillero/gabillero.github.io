@@ -1,4 +1,8 @@
 #EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
 
 #EXTINF:-1 tvg-id=tt0024660" tvg-name="tt0024660" tvg-type="movies" group-title="Animacion" ,Los Tres Cerditos
 https://www.mediafire.com/file/mfna7mkx6otdl1l/tt0024660.avi
+
+#EXTINF:-1 tvg-id=tt11613746" tvg-name="tt11613746" tvg-type="movies" group-title="Comedia" ,Garcia y Garcia
+https://www.mediafire.com/file/6k6m3kmt6n90x34/tt11613746.mkv
