@@ -8837,6 +8837,10 @@ http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/197072
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/197073
 #EXTINF:-1,EVA RETRO
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/197635
+
+
+
+
 #EXTINF:-1,RD LA CLAVE TV
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/198408
 #EXTINF:-1,RD MICROVISION 10
@@ -8893,43 +8897,38 @@ http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/198474
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/198476
 #EXTINF:-1,RD: TELEUNION
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/198477
+#EXTINF:-1 tvg-id="Acentotv" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/zSRGlam.png" group-title="TV Dominicana",Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1,RD:TELEVISION DEL ESTE
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/198478
+
+
+
+
+
 #EXTINF:-1,DEPORTES HD | GOLF CHANNEL LATINO\
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/198865
 #EXTINF:-1,DEPORTES* | GOLF CHANNEL MEXICO\
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/198866
 #EXTINF:-1,DEPORTES | GOLF CHANNEL SUR\
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/198867
-#EXTINF:-1,CH | 24/7 Peliculas Chilenas 
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/199501
-#EXTINF:-1,Que Dice El Publico
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/195514
-#EXTINF:-1,RE-JAPENNING
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/195695
-#EXTINF:-1,Viva El LUNES
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/195517
-#EXTINF:-1,SOCIOS 
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/195710
-#EXTINF:-1,Casado con hijos (e)(SD)
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/196796
-#EXTINF:-1,La Mansion Rossa
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/195703
+
 #EXTINF:-1,13 Documentales
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/199502
-#EXTINF:-1,13 Entretencion
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/193589
+
 #EXTINF:-1,13 Prime
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/193590
 #EXTINF:-1,13 Teleseries
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/193591
 #EXTINF:-1,Kids90 | CL
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/193551
-#EXTINF:-1,PLUTO ANIME HEROES\
+
+
+#EXTINF:-1 tvg-id="PLUTO ANIME HEROES" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SyD6YQc.png" group-title="PLUTO",PLUTO ANIME HEROES
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/200406
-#EXTINF:-1,PLUTO FITNESS\
+#EXTINF:-1 tvg-id="PLUTO Fitness" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SyD6YQc.png" group-title="PLUTO",PLUTO FITNESS
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/200407
-#EXTINF:-1,PLUTO HOGAR\
+#EXTINF:-1 tvg-id="PLUTO HOGAR" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SyD6YQc.png" group-title="PLUTO",PLUTO HOGAR
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/200409
 #EXTINF:-1,PLUTO HUMOR\
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/200410
