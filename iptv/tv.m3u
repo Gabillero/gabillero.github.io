@@ -1,17 +1,18 @@
 #EXTM3U
+
 #EXTINF:-1,Ultra Fiesta
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194784
 #EXTINF:-1,MTV Classics
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194785
-#EXTINF:-1,VEVO Urbano
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U7Oaww5.png" group-title="Musica",VEVO Urbano
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194786
-#EXTINF:-1,VEVO Latin Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U7Oaww5.png" group-title="Musica",VEVO Latin Pop
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194787
-#EXTINF:-1,VEVO Reggaton
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U7Oaww5.png" group-title="Musica",VEVO Reggaeton
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194788
-#EXTINF:-1,VEVO Hip-Hop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U7Oaww5.png" group-title="Musica",VEVO Hip-Hop
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194789
-#EXTINF:-1,VEVO Metal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U7Oaww5.png" group-title="Musica",VEVO Metal
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194790
 #EXTINF:-1,.MCRT Hits
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194793
@@ -21,54 +22,23 @@ http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194797
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194798
 #EXTINF:-1,24/7 Cinema Anime
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/194768
-#EXTINF:-1,COL | DIRECTV SPORTS 2 HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/193688
-#EXTINF:-1,CANADA | CP24 HD\
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/192849
-#EXTINF:-1,StarPlay SPORTS 1 CHILE HD 
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/179131
-#EXTINF:-1,StarPlay SPORTS 2 CHILE HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/179132
-#EXTINF:-1,StarPlay SPORTS 3 CHILE HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/198985
+#EXTINF:-1,COL | DIRECTV SPORTS 2
 #EXTINF:-1,CHILE | TNT SPORTS  HD (E)
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176196
 #EXTINF:-1,CHILE | TNT SPORTS BASICO HD
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176205
-#EXTINF:-1,CHILE | CANAL 13 FHD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176209
-#EXTINF:-1,CHILE  | Canal 13 SD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176200
-#EXTINF:-1,CANAL 13 CHILE CL
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176206
-#EXTINF:-1,Chile | CANAL 13 C HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logotipo_de_Canal_13.svg" group-title="Internacional",CANAL 13 Chile
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176211
-#EXTINF:-1,CHILE  | Chilevision FHD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176197
-#EXTINF:-1,CHILE  | Mega FHD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176203
-#EXTINF:-1,CHILE | Mega HD 
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176207
-#EXTINF:-1,CHILE | Mega SD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176208
-#EXTINF:-1,CHILE  | TVN HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176199
-#EXTINF:-1,Chile | TVN SD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176212
-#EXTINF:-1,CHILE | ETC TV CHILE
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176214
-#EXTINF:-1,CHILE  | Teletrak chile
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176204
-#EXTINF:-1,Mix 24-7 Tropical
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RXwTskO.png" group-title="Musica",Mix 24/7 Tropical
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/175100
-#EXTINF:-1,Mix 24-7 Top 100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RXwTskO.png" group-title="Musica",Mix 24/7Top 100
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/175099
-#EXTINF:-1,Mix 24-7 VdjMix Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RXwTskO.png" group-title="Musica",Mix 24/7 VdjMix Pop
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/175103
-#EXTINF:-1,Mix 24-7 Global Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RXwTskO.png" group-title="Musica",Mix 24/7 Global Hits
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/175102
-#EXTINF:-1,Señal 2K (+70Mbps) Campeonato PlanVital 
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/174359
+
 #EXTINF:-1,StarPlay Sports 2 (CDF P) UHD
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/171620
 #EXTINF:-1,TNT Sports 3 (720) (CDF Basico)
@@ -81,84 +51,7 @@ http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/171618
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/175092
 #EXTINF:-1,CH | REC TV
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/176213
-#EXTINF:-1,Homenaje Gigante
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/195496
-#EXTINF:-1,CH | Directv Sports Chile UHD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/171624
-#EXTINF:-1,CH | ESPN 2 Chile HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/171625
-#EXTINF:-1,CH | FOX SPORTS-1 HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/171801
-#EXTINF:-1,CH | TNT SPORTS HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170103
-#EXTINF:-1,CH | TNT SPORTS HD OP2 
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170203
-#EXTINF:-1, CH | StarPlay SPORTS FHD OP2
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/169262
-#EXTINF:-1,CH | FOX SPORTS 1 FHD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170102
-#EXTINF:-1,CH | ESPN CHILE
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170202
-#EXTINF:-1,CH | DIRECTV SPORTS 1
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170101
-#EXTINF:-1,CH | TELETRAk TV
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170081
-#EXTINF:-1,CH | CANAL 13 FHD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170099
-#EXTINF:-1,CH | CANAL 13 HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170098
-#EXTINF:-1,CH | CANAL 13 SD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170097
-#EXTINF:-1,CH | CHILEVISION FHD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170087
-#EXTINF:-1,CH | CHILEVISION HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170086
-#EXTINF:-1,CH | CHILEVISION SD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170085
-#EXTINF:-1,CH | MEGA - FHD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170091
-#EXTINF:-1,CH | MEGA - HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170090
-#EXTINF:-1,CH | MEGA HD-OP2
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/174255
-#EXTINF:-1,CH | MEGA SD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170089
-#EXTINF:-1,CH | TVN HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170093
-#EXTINF:-1,CH | TVN
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170092
-#EXTINF:-1,CH | TV Chile
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170095
-#EXTINF:-1,CH | TV+
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170100
-#EXTINF:-1,CH | LA RED FHD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170084
-#EXTINF:-1,CH | LA RED HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170083
-#EXTINF:-1,CH | LA RED
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170082
-#EXTINF:-1,CH | VIA X
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170205
-#EXTINF:-1,CH | ZONA LATINA
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170204
-#EXTINF:-1,CH | ETC
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170088
-#EXTINF:-1,CH : StarPlay MARVEL HD
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/166703
-#EXTINF:-1,CH | StarPlay INFANTIL
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/166704
-#EXTINF:-1,CH | StarPlay ACCION
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/166705
-#EXTINF:-1,CH | PlanetaTV
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/63712
-#EXTINF:-1,CH | CNN Chile
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170096
-#EXTINF:-1,CH | 24 HORAS
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/170094
-#EXTINF:-1,10 TV
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/55749
-#EXTINF:-1,13 Max Television
-http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/55690
+
 #EXTINF:-1,24/7 Alf (e)(SD)
 http://castlempire.site:8080/hd5375/6GvD5nUb2Dtv/169475
 #EXTINF:-1,24/7 VIP | Bob Esponja (e)
