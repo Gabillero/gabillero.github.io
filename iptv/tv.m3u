@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Miami TV" tvg-logo="https://i.ibb.co/jGdX5fH/logo-miami-tv.png" group-title="Adulto",
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami TV Jenny Live" tvg-logo="https://i.ibb.co/CJGhRkC/Jennylive.png" group-title="Adulto",
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami TV Latino" tvg-logo="https://i.ibb.co/pbVVnc7/logo-miami-tv-lat.png" group-title="Adulto",
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-name="Miami TV México" tvg-logo="https://i.ibb.co/pbVVnc7/logo-miami-tv-lat.png" group-title="Adulto",
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 
 #EXTINF:-1,Argentina|| TELEFE HD
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/22088
