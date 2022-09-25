@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Karibe Mix TV" tvg-logo="http://karibemix.net/wp-content/uploads/2020/08/cropped-imageedit_3_4967269245.png" group-title="Dominicana",
+https://ss9.domint.net:3014/kmtv_str/karibemixtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Miami TV" tvg-logo="https://i.ibb.co/jGdX5fH/logo-miami-tv.png" group-title="Adulto",
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/playlist.m3u8
 #EXTINF:-1 tvg-name="Miami TV Jenny Live" tvg-logo="https://i.ibb.co/CJGhRkC/Jennylive.png" group-title="Adulto",
